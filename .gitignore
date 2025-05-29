@@ -1,3 +1,13 @@
+# IntelliJ
+.idea
+
+# VS Code
+.vscode
+
+# Visual Studio
+.vsconfig
+
+## unreal.gitignore
 # Visual Studio 2015 user specific files
 .vs/
 
@@ -47,7 +57,7 @@ SourceArt/**/*.tga
 
 # Binary Files
 Binaries/*
-Plugins/**/Binaries/*
+Plugins/*/Binaries/*
 
 # Builds
 Build/*
@@ -68,7 +78,7 @@ Saved/*
 
 # Compiled source files for the engine to use
 Intermediate/*
-Plugins/**/Intermediate/*
+Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
